@@ -1,0 +1,18 @@
+.team-container {
+	display: flex;
+}
+.players-container {
+	width: 70%;
+	margin-left: 80px;
+	margin-right: 30px;
+	border-right: 1px solid lightgray;
+}
+.single-player {
+	margin: 10px;
+	width: 14rem;
+}
+.single-player img {
+	margin-top: 5px;
+	align-self: center;
+	height: 207px;
+}

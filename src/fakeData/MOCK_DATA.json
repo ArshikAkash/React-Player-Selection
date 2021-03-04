@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"name": "Mashrafi",
+		"salary": 50789,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221382.html"
+	},
+	{
+		"id": 2,
+		"name": "Shakib",
+		"salary": 26073,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221590.html"
+	},
+	{
+		"id": 3,
+		"name": "Mushfiq",
+		"salary": 92074,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221580.html"
+	},
+	{
+		"id": 4,
+		"name": "Rubel",
+		"salary": 60989,
+		"image": "https://www.espncricinfo.com/inline/content/image/1099667.html"
+	},
+	{
+		"id": 5,
+		"name": "Taskin",
+		"salary": 42808,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221603.html"
+	},
+	{
+		"id": 6,
+		"name": "Liton",
+		"salary": 88856,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221378.html"
+	},
+	{
+		"id": 7,
+		"name": "Shoumya",
+		"salary": 66826,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221594.html"
+	},
+	{
+		"id": 8,
+		"name": "Tamim",
+		"salary": 88958,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221600.html"
+	},
+	{
+		"id": 9,
+		"name": "Afif",
+		"salary": 13091,
+		"image": "https://www.espncricinfo.com/inline/content/image/1226197.html?alt=1"
+	},
+	{
+		"id": 10,
+		"name": "Mahmudullah",
+		"salary": 97760,
+		"image": "https://www.espncricinfo.com/inline/content/image/1099653.html"
+	},
+	{
+		"id": 11,
+		"name": "Miraj",
+		"salary": 90861,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221384.html"
+	},
+	{
+		"id": 12,
+		"name": "Sabbir",
+		"salary": 89210,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221741.html"
+	},
+	{
+		"id": 13,
+		"name": "Mithun",
+		"salary": 13951,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221576.html"
+	},
+	{
+		"id": 14,
+		"name": "Mustafiz",
+		"salary": 54266,
+		"image": "https://www.espncricinfo.com/inline/content/image/1099647.html"
+	},
+	{
+		"id": 15,
+		"name": "Mosaddek",
+		"salary": 14209,
+		"image": "https://www.espncricinfo.com/inline/content/image/1221579.html"
+	}
+]
