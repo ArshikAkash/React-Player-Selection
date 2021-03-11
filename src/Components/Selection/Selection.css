@@ -1,0 +1,7 @@
+.selected {
+    background-color: #28a745;
+    color: white;
+    border-radius: 5px;
+    height: 25px;
+    font-weight: 400;
+}
